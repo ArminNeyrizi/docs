@@ -2,23 +2,22 @@
 
 **Course ID:** `cc-course-motion-video-specialist`
 ## **1. Motion Design Fundamentals**
-
+[[cc-course-ai-motion-video-specialist-1-1]]
 - Motion Design chist & koja estefade mishavad? - s
 [[cc-course-ai-motion-video-specialist-1-2]]
 - Timing & Spacing - a
 - Easing - a
 - Anticipation & Follow Through - a
 - Rhythm و Pacing - a
-- Composition در Motion - s
-- Visual Hierarchy - s
+[[cc-course-ai-motion-video-specialist-1-8]]
 - Storytelling with motion - s
 
 ## **2. Visual Design for Motion**
 
-- Composition - s
+[[cc-course-ai-motion-video-specialist-2-1]]
 - Grid و Alignment - s
-- Typography - s
-- Color - s
+[[cc-course-ai-motion-video-specialist-2-3]]
+[[cc-course-ai-motion-video-specialist-2-4]]
 - Shape & Form - s
 - Iconography - s
 - Visual Consistency - s
