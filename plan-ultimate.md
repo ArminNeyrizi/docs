@@ -1,51 +1,52 @@
-بر اساس برنامه اصلی PDF، خلاصه **برنامه هفتگی ثابت از ۴ مهر به بعد** این است: 
+# plan-ultimate
+
+بر اساس برنامه اصلی PDF، خلاصه **برنامه هفتگی ثابت از ۴ مهر به بعد** این است:&#x20;
 
 plan-ultimate (1).pdf
 
-|**روز**|**برنامه اصلی**|**زمان**|
-|---|---|---|
-|**شنبه**|University + Khesht Sales + ContentCity Review|3h + 2h + 1h|
-|**یکشنبه**|University + Khesht + DataLab / Malich / Zabanj|3h + 2h + 1h|
-|**دوشنبه**|University + Khesht System + ContentCity|3h + 2h + 1h|
-|**سه‌شنبه**|University + Khesht + ContentCity|3h + 2h + 1h|
-|**چهارشنبه**|University + Khesht + Founder Strategy|3h + 2h + 1h|
-|**پنجشنبه**|University Review + Content Extraction + Khesht System|2h + 2h + 2h|
-|**جمعه**|Batch Content + University Assignments + Weekly Review + Buffer|3h + 3h + 0.5h + 1–2h|
+| **روز**      | **برنامه اصلی**                                                 | **زمان**              |
+| ------------ | --------------------------------------------------------------- | --------------------- |
+| **شنبه**     | University + Khesht Sales + ContentCity Review                  | 3h + 2h + 1h          |
+| **یکشنبه**   | University + Khesht + DataLab / Malich / Zabanj                 | 3h + 2h + 1h          |
+| **دوشنبه**   | University + Khesht System + ContentCity                        | 3h + 2h + 1h          |
+| **سه‌شنبه**  | University + Khesht + ContentCity                               | 3h + 2h + 1h          |
+| **چهارشنبه** | University + Khesht + Founder Strategy                          | 3h + 2h + 1h          |
+| **پنجشنبه**  | University Review + Content Extraction + Khesht System          | 2h + 2h + 2h          |
+| **جمعه**     | Batch Content + University Assignments + Weekly Review + Buffer | 3h + 3h + 0.5h + 1–2h |
 
-### **در یک نگاه**
+#### **در یک نگاه**
 
-|**حوزه**|**ساعت هفتگی تقریبی**|
-|---|---|
-|**University**|19h|
-|**Khesht**|12h|
-|**ContentCity**|3h|
-|**DataLab / Malich / Zabanj**|1h|
-|**Founder Strategy**|1h|
-|**Weekly Review**|0.5h|
-|**Buffer**|1–2h|
+| **حوزه**                      | **ساعت هفتگی تقریبی** |
+| ----------------------------- | --------------------- |
+| **University**                | 19h                   |
+| **Khesht**                    | 12h                   |
+| **ContentCity**               | 3h                    |
+| **DataLab / Malich / Zabanj** | 1h                    |
+| **Founder Strategy**          | 1h                    |
+| **Weekly Review**             | 0.5h                  |
+| **Buffer**                    | 1–2h                  |
 
 **جمع کار برنامه‌ریزی‌شده:** حدود **36.5 تا 37.5 ساعت در هفته**.
 
-نکته مهم: این جدول **اسکلت ثابت هفتگی** است؛ محتوای هر هفته بر اساس فاز ۹۰روزه تغییر می‌کند. مثلاً یک هفته Khesht روی Sales Dashboard است و هفته بعد روی SOP یا B2B. 
+نکته مهم: این جدول **اسکلت ثابت هفتگی** است؛ محتوای هر هفته بر اساس فاز ۹۰روزه تغییر می‌کند. مثلاً یک هفته Khesht روی Sales Dashboard است و هفته بعد روی SOP یا B2B.&#x20;
 
 plan-ultimate (1).pdf
-
 
 خلاصه برنامه ۹۰ روزه این است:
 
-### **۱. سه موتور اصلی**
+#### **۱. سه موتور اصلی**
 
-|**موتور**|**هدف**|
-|---|---|
-|**University — ۳۰–۳۵٪**|یادگیری، پاس‌کردن دروس، ساخت Knowledge Bank|
-|**Khesht — ۳۵–۴۰٪**|فروش + سیستم‌سازی + محصول + BIM|
-|**ContentCity — ۱۵٪**|گرفتن مشتری، اجرای پروژه و ساخت Case Study|
+| **موتور**               | **هدف**                                     |
+| ----------------------- | ------------------------------------------- |
+| **University — ۳۰–۳۵٪** | یادگیری، پاس‌کردن دروس، ساخت Knowledge Bank |
+| **Khesht — ۳۵–۴۰٪**     | فروش + سیستم‌سازی + محصول + BIM             |
+| **ContentCity — ۱۵٪**   | گرفتن مشتری، اجرای پروژه و ساخت Case Study  |
 
-DataLab، Malich و Zabanj هم از **یادگیری دانشگاه** تغذیه می‌شوند، نه اینکه هرکدام پروژه تحقیقاتی مستقل باشند. 
+DataLab، Malich و Zabanj هم از **یادگیری دانشگاه** تغذیه می‌شوند، نه اینکه هرکدام پروژه تحقیقاتی مستقل باشند.&#x20;
 
 plan-ultimate (1).pdf
 
-### **۲. مسیر ۹۰ روز**
+#### **۲. مسیر ۹۰ روز**
 
 **۲۳ شهریور → ۳ مهر**
 
@@ -69,11 +70,11 @@ Scale خشت + تبدیل دانشگاه به Content Engine + Launch زابان
 
 **۲۱–۲۲ آذر**
 
-Quarterly Review و اندازه‌گیری نتایج. 
+Quarterly Review و اندازه‌گیری نتایج.&#x20;
 
 plan-ultimate (1).pdf
 
-### **۳. خروجی اصلی هر موتور**
+#### **۳. خروجی اصلی هر موتور**
 
 **University**
 
@@ -85,11 +86,11 @@ Content → Lead → CRM → Qualification → Sales → Payment → Onboarding 
 
 **ContentCity**
 
-Lead → Proposal → Contract → Project → Case Study → Portfolio → New Client 
+Lead → Proposal → Contract → Project → Case Study → Portfolio → New Client&#x20;
 
 plan-ultimate (1).pdf
 
-### **۴. قانون اجرایی**
+#### **۴. قانون اجرایی**
 
 هر روز فقط **۳ کار اصلی**.
 
@@ -97,46 +98,46 @@ plan-ultimate (1).pdf
 
 **پنجشنبه تولید Batch → جمعه ادیت و Scheduling → انتشار در طول هفته**
 
-نه تولید روزانه برای هر برند. 
+نه تولید روزانه برای هر برند.&#x20;
 
 plan-ultimate (1).pdf
 
-### **اگر بخواهم در یک جمله بگویم:**
+#### **اگر بخواهم در یک جمله بگویم:**
 
 **این ۹۰ روز قرار است University را به موتور دانش، Khesht را به موتور درآمد و سیستم، و ContentCity را به موتور Agency تبدیل کند؛ و از این سه، یک سیستم قابل تکرار برای Joinly بسازد.**
-# **سند برنامه اجرایی Ultimate آرمین نیریزی**
 
-**بازه اجرا:** ۲۳ شهریور تا ۲۲ آذر ۱۴۰۵  
-**مدت:** ۹۰ روز  
-**ماهیت:** Founder / Business / R&D / Learning / System Building  
+## **سند برنامه اجرایی Ultimate آرمین نیریزی**
+
+**بازه اجرا:** ۲۳ شهریور تا ۲۲ آذر ۱۴۰۵\
+**مدت:** ۹۰ روز\
+**ماهیت:** Founder / Business / R\&D / Learning / System Building\
 **اصل حاکم:**
 
 **کمترین تعداد پروژه فعال، بیشترین خروجی قابل‌اندازه‌گیری**
 
----
+***
 
-# **1. هدف ۹۰ روزه**
+## **1. هدف ۹۰ روزه**
 
 هدف این Quarter ساختن ۱۲ برند به‌صورت هم‌زمان نیست.
 
 در این ۹۰ روز، سه موتور اصلی فعال هستند:
 
-|**موتور**|**نقش**|
-|---|---|
-|**University**|Learning Engine|
-|**Khesht**|Revenue + Business + System|
-|**ContentCity**|Agency + Revenue|
+| **موتور**       | **نقش**                     |
+| --------------- | --------------------------- |
+| **University**  | Learning Engine             |
+| **Khesht**      | Revenue + Business + System |
+| **ContentCity** | Agency + Revenue            |
 
 سه برند آموزشی نیز مستقیماً از دانشگاه تغذیه می‌شوند:
 
-- **DataLab**
-- **Malich**
-- **Zabanj**
+* **DataLab**
+* **Malich**
+* **Zabanj**
 
-و سایر برندها فقط در زمان تعیین‌شده و با Scope محدود وارد می‌شوند. 
+و سایر برندها فقط در زمان تعیین‌شده و با Scope محدود وارد می‌شوند.&#x20;
 
-
-### **خروجی مورد انتظار در ۲۲ آذر**
+#### **خروجی مورد انتظار در ۲۲ آذر**
 
 باید به نقطه‌ای برسیم که:
 
@@ -147,11 +148,11 @@ plan-ultimate (1).pdf
 5. یادگیری دانشگاهی به Asset برای DataLab، Malich و Zabanj تبدیل شده باشد.
 6. سیستم‌های ساخته‌شده واقعاً زمان Founder را کاهش دهند.
 
----
+***
 
-# **2. معماری کل Quarter**
+## **2. معماری کل Quarter**
 
-```text
+```
                          FOUNDER
                             │
         ┌───────────────────┼───────────────────┐
@@ -181,40 +182,40 @@ DataLab Malich Zabanj
 
 و در Khesht:
 
-**Content → Lead → CRM → Sales → Payment → Onboarding → Learning → Project → Satisfaction → Referral** 
+**Content → Lead → CRM → Sales → Payment → Onboarding → Learning → Project → Satisfaction → Referral**&#x20;
 
 plan-ultimate (1).pdf
 
----
+***
 
-# **3. توزیع توجه Founder**
+## **3. توزیع توجه Founder**
 
 درصدها تقریبی‌اند و هدفشان جلوگیری از بلعیده‌شدن زمان توسط پروژه‌های فرعی است.
 
-|**اولویت**|**پروژه**|**سهم توجه**|
-|---|---|---|
-|P0|University|30–35%|
-|P0|Khesht Revenue|25%|
-|P0|Khesht System|10–15%|
-|P0|ContentCity|15%|
-|P1|DataLab|5%|
-|P1|Malich|3–5%|
-|P1|Zabanj|2–3%|
-|P2|سایر برندها|حداکثر 2%|
+| **اولویت** | **پروژه**      | **سهم توجه** |
+| ---------- | -------------- | ------------ |
+| P0         | University     | 30–35%       |
+| P0         | Khesht Revenue | 25%          |
+| P0         | Khesht System  | 10–15%       |
+| P0         | ContentCity    | 15%          |
+| P1         | DataLab        | 5%           |
+| P1         | Malich         | 3–5%         |
+| P1         | Zabanj         | 2–3%         |
+| P2         | سایر برندها    | حداکثر 2%    |
 
 اصل مهم:
 
-هیچ برند فرعی اجازه ندارد زمان University یا Khesht را مصرف کند. 
+هیچ برند فرعی اجازه ندارد زمان University یا Khesht را مصرف کند.&#x20;
 
----
+***
 
-# **4. قوانین Quarter**
+## **4. قوانین Quarter**
 
-## **قانون ۱ — WIP محدود**
+### **قانون ۱ — WIP محدود**
 
 هر چیزی که پروژه فعال نیست، پروژه فعال نمی‌شود.
 
-## **قانون ۲ — هر پروژه جدید باید سه سؤال را جواب دهد**
+### **قانون ۲ — هر پروژه جدید باید سه سؤال را جواب دهد**
 
 1. آیا Revenue دارد؟
 2. اگر ندارد، آیا Learning دارد؟
@@ -222,25 +223,25 @@ plan-ultimate (1).pdf
 
 اگر پاسخ هر سه **نه** باشد:
 
-**شروع نشود.** 
+**شروع نشود.**&#x20;
 
-## **قانون ۳ — Founder نباید همه‌کاره شود**
+### **قانون ۳ — Founder نباید همه‌کاره شود**
 
 اگر در پایان Quarter تبدیل شده باشی به:
 
-- مدیر فروش
-- ادمین
-- ادیتور
-- مدرس
-- تولیدکننده محتوا
-- پشتیبان
-- Project Manager
+* مدیر فروش
+* ادمین
+* ادیتور
+* مدرس
+* تولیدکننده محتوا
+* پشتیبان
+* Project Manager
 
-برنامه شکست خورده است؛ حتی اگر حجم کار انجام‌شده زیاد باشد. 
+برنامه شکست خورده است؛ حتی اگر حجم کار انجام‌شده زیاد باشد.&#x20;
 
----
+***
 
-# **5. موتور اول: University**
+## **5. موتور اول: University**
 
 University در این Quarter یک پروژه جانبی نیست.
 
@@ -248,7 +249,7 @@ University در این Quarter یک پروژه جانبی نیست.
 
 دانشگاه باید دو خروجی داشته باشد:
 
-```text
+```
 University Learning
         ↓
 Knowledge Bank
@@ -258,9 +259,9 @@ Content Extraction
 DataLab / Malich / Zabanj
 ```
 
----
+***
 
-# **6. دروس دانشگاه**
+## **6. دروس دانشگاه**
 
 برای ۹ درس Workspace مستقل ایجاد می‌شود:
 
@@ -276,49 +277,49 @@ DataLab / Malich / Zabanj
 
 برای هر درس:
 
-- Syllabus
-- Notes
-- Assignments
-- Exercises
-- Exam
-- Content Ideas
+* Syllabus
+* Notes
+* Assignments
+* Exercises
+* Exam
+* Content Ideas
 
-ساخته می‌شود. 
+ساخته می‌شود.&#x20;
 
----
+***
 
-# **7. سیستم مطالعه دانشگاه**
+## **7. سیستم مطالعه دانشگاه**
 
 از ۴ مهر که دانشگاه رسماً شروع می‌شود:
 
-### **قبل از کلاس**
+#### **قبل از کلاس**
 
 **۳۰–۴۵ دقیقه Preview**
 
-### **روز کلاس**
+#### **روز کلاس**
 
-- حضور
-- یادداشت‌برداری
-- ثبت نکات مهم
+* حضور
+* یادداشت‌برداری
+* ثبت نکات مهم
 
-### **حداکثر ۲۴ ساعت بعد**
+#### **حداکثر ۲۴ ساعت بعد**
 
 **۳۰–۶۰ دقیقه**
 
-- Homework
-- Exercises
+* Homework
+* Exercises
 
-### **آخر هفته**
+#### **آخر هفته**
 
 **۳۰ دقیقه Review**
 
-این سیستم باید ثابت باشد و هر هفته تکرار شود. 
+این سیستم باید ثابت باشد و هر هفته تکرار شود.&#x20;
 
 plan-ultimate (1).pdf
 
----
+***
 
-# **8. تبدیل University به Content**
+## **8. تبدیل University به Content**
 
 اصل:
 
@@ -326,7 +327,7 @@ plan-ultimate (1).pdf
 
 فرآیند:
 
-```text
+```
 University
     ↓
 Learning
@@ -344,7 +345,7 @@ Batch Production
 
 یک مفهوم می‌تواند چند خروجی داشته باشد:
 
-```text
+```
 LinkedIn Post
 Article
 Reel
@@ -352,35 +353,35 @@ Carousel
 Study Note
 ```
 
-بدون اینکه پنج بار تحقیق انجام شود. 
+بدون اینکه پنج بار تحقیق انجام شود.&#x20;
 
 plan-ultimate (1).pdf
 
----
+***
 
-# **9. Content Bank دانشگاه**
+## **9. Content Bank دانشگاه**
 
 برای هر درس یک Content Bank:
 
-|**Course**|**Concept**|**Difficulty**|**Brand**|**Content Status**|
-|---|---|---|---|---|
-|Data Science|Dataset|متوسط|DataLab|Reel Idea|
-|Statistics|Mean|ساده|DataLab|Reel Script|
-|Finance|Inflation|ساده|Malich|Carousel Idea|
-|Accounting|Cost|متوسط|Malich|Reel Idea|
-|English|Technical Terms|ساده|Zabanj|Reel Ready|
+| **Course**   | **Concept**     | **Difficulty** | **Brand** | **Content Status** |
+| ------------ | --------------- | -------------- | --------- | ------------------ |
+| Data Science | Dataset         | متوسط          | DataLab   | Reel Idea          |
+| Statistics   | Mean            | ساده           | DataLab   | Reel Script        |
+| Finance      | Inflation       | ساده           | Malich    | Carousel Idea      |
+| Accounting   | Cost            | متوسط          | Malich    | Reel Idea          |
+| English      | Technical Terms | ساده           | Zabanj    | Reel Ready         |
 
-### **هدف تا ۲۲ آذر**
+#### **هدف تا ۲۲ آذر**
 
 **حداقل ۱۰۰ ایده خام**
 
-اما همه این ایده‌ها الزاماً منتشر نمی‌شوند. 
+اما همه این ایده‌ها الزاماً منتشر نمی‌شوند.&#x20;
 
 plan-ultimate (1).pdf
 
----
+***
 
-# **10. موتور دوم: Khesht**
+## **10. موتور دوم: Khesht**
 
 Khesht در این Quarter سه وظیفه دارد:
 
@@ -394,13 +395,13 @@ Khesht در این Quarter سه وظیفه دارد:
 
 اما BIM تنها محصول Quarter نیست.
 
----
+***
 
-# **11. Khesht Sales Funnel**
+## **11. Khesht Sales Funnel**
 
 Pipeline اصلی:
 
-```text
+```
 Lead
  ↓
 Qualification
@@ -418,7 +419,7 @@ Onboarding
 
 و بعد از فروش:
 
-```text
+```
 Learning
  ↓
 Project
@@ -428,37 +429,37 @@ Satisfaction
 Referral
 ```
 
-هدف این است که Founder مالک تک‌تک مراحل نباشد. 
+هدف این است که Founder مالک تک‌تک مراحل نباشد.&#x20;
 
 plan-ultimate (1).pdf
 
----
+***
 
-# **12. CRM حداقلی Khesht**
+## **12. CRM حداقلی Khesht**
 
 هر Lead باید حداقل این اطلاعات را داشته باشد:
 
-|**فیلد**|
-|---|
-|Name|
-|Contact|
-|Source|
-|Interested Course|
-|Temperature|
-|Last Contact|
-|Next Action|
-|Owner|
-|Status|
-|Value|
-|Result|
+| **فیلد**          |
+| ----------------- |
+| Name              |
+| Contact           |
+| Source            |
+| Interested Course |
+| Temperature       |
+| Last Contact      |
+| Next Action       |
+| Owner             |
+| Status            |
+| Value             |
+| Result            |
 
----
+***
 
-# **13. Sales Dashboard**
+## **13. Sales Dashboard**
 
 شاخص‌های روزانه/هفتگی:
 
-```text
+```
 New Leads
 Contacted
 Qualified
@@ -468,19 +469,19 @@ Sales
 Revenue
 ```
 
-در هفته‌های سیستم‌سازی باید تمام Leads تماس‌گرفته شوند، Follow-up داشته باشند و علت عدم خرید ثبت شود. 
+در هفته‌های سیستم‌سازی باید تمام Leads تماس‌گرفته شوند، Follow-up داشته باشند و علت عدم خرید ثبت شود.&#x20;
 
 plan-ultimate (1).pdf
 
----
+***
 
-# **14. Khesht BIM**
+## **14. Khesht BIM**
 
 BIM باید به‌عنوان یک محور Expert در Content و Product استفاده شود.
 
 مدل تولید:
 
-```text
+```
 BIM Knowledge
       ↓
 Course
@@ -500,9 +501,9 @@ Feedback
 
 نکته مهم: در PDF، BIM Manager یک جزء از موتور Khesht است؛ **کل برنامه ۹۰ روزه با BIM Manager یکی نیست.**
 
----
+***
 
-# **15. سیستم تولید محتوای Khesht**
+## **15. سیستم تولید محتوای Khesht**
 
 Pattern پایه:
 
@@ -510,40 +511,40 @@ Pattern پایه:
 
 تمرکز محتوایی:
 
-- BIM
-- Revit
-- Career
-- Project
-- FAQ
-- Student Experience
-- B2B
-- Sales
+* BIM
+* Revit
+* Career
+* Project
+* FAQ
+* Student Experience
+* B2B
+* Sales
 
 محتوا باید به Lead و فروش متصل باشد، نه صرفاً View.
 
----
+***
 
-# **16. Stories Khesht**
+## **16. Stories Khesht**
 
 Pattern هفتگی:
 
-|**روز**|**نوع Story**|
-|---|---|
-|شنبه|Educational|
-|یکشنبه|Behind the Scenes|
-|دوشنبه|Problem|
-|سه‌شنبه|Offer|
-|چهارشنبه|Proof|
-|پنجشنبه|Production|
-|جمعه|Poll / Q&A|
+| **روز**  | **نوع Story**     |
+| -------- | ----------------- |
+| شنبه     | Educational       |
+| یکشنبه   | Behind the Scenes |
+| دوشنبه   | Problem           |
+| سه‌شنبه  | Offer             |
+| چهارشنبه | Proof             |
+| پنجشنبه  | Production        |
+| جمعه     | Poll / Q\&A       |
 
-در Khesht، Story باید بخشی از Follow-up فروش باشد، نه فقط Awareness. 
+در Khesht، Story باید بخشی از Follow-up فروش باشد، نه فقط Awareness.&#x20;
 
 plan-ultimate (1).pdf
 
----
+***
 
-# **17. موتور سوم: ContentCity**
+## **17. موتور سوم: ContentCity**
 
 ContentCity در این Quarter یک **Agency** است.
 
@@ -560,7 +561,7 @@ ContentCity در این Quarter یک **Agency** است.
 
 مدل:
 
-```text
+```
 Lead
  ↓
 Proposal
@@ -586,27 +587,27 @@ Case Study
 
 plan-ultimate (1).pdf
 
----
+***
 
-# **18. ContentCity KPI**
+## **18. ContentCity KPI**
 
 تمرکز:
 
-- Leads
-- Clients
-- Revenue
-- Projects
-- Case Studies
-- Content
-- Conversion
+* Leads
+* Clients
+* Revenue
+* Projects
+* Case Studies
+* Content
+* Conversion
 
 هر پروژه واقعی باید تا حد امکان تبدیل شود به:
 
 **Project → Portfolio → Case Study → Content → Sales Asset**
 
----
+***
 
-# **19. DataLab / Malich / Zabanj**
+## **19. DataLab / Malich / Zabanj**
 
 این سه برند تیم تحقیق و تولید مستقل ندارند.
 
@@ -616,47 +617,47 @@ plan-ultimate (1).pdf
 
 مثلاً:
 
-### **University**
+#### **University**
 
 **Correlation**
 
 ↓
 
-### **DataLab**
+#### **DataLab**
 
 «Correlation چیست؟»
 
 ↓
 
-### **Malich**
+#### **Malich**
 
 «Correlation در تحلیل مالی چه کاربردی دارد؟»
 
 ↓
 
-### **Zabanj**
+#### **Zabanj**
 
 «Correlation را چطور به انگلیسی توضیح دهیم؟»
 
 ↓
 
-### **ContentCity**
+#### **ContentCity**
 
 «چطور یک مفهوم پیچیده را در ۳۰ ثانیه توضیح بدهیم؟»
 
 ↓
 
-### **Khesht**
+#### **Khesht**
 
 اگر ارتباط طبیعی وجود داشت، یک مثال BIM.
 
-این دقیقاً همان منطق استفاده مجدد از یک واحد دانش است. 
+این دقیقاً همان منطق استفاده مجدد از یک واحد دانش است.&#x20;
 
 plan-ultimate (1).pdf
 
----
+***
 
-# **20. DataLab**
+## **20. DataLab**
 
 تمرکز:
 
@@ -664,17 +665,17 @@ plan-ultimate (1).pdf
 
 خروجی‌های اولیه:
 
-- Data Science
-- Dataset
-- Statistics
-- Mean
-- Probability
-- Correlation
-- Data Visualization
+* Data Science
+* Dataset
+* Statistics
+* Mean
+* Probability
+* Correlation
+* Data Visualization
 
----
+***
 
-# **21. Malich**
+## **21. Malich**
 
 تمرکز:
 
@@ -682,19 +683,19 @@ plan-ultimate (1).pdf
 
 خروجی‌های اولیه:
 
-- Revenue vs Profit
-- Cash Flow
-- Inflation
-- Asset / Liability
-- Fixed / Variable Cost
-- Cost Control
-- Break-even
-- ROI
-- Budget
+* Revenue vs Profit
+* Cash Flow
+* Inflation
+* Asset / Liability
+* Fixed / Variable Cost
+* Cost Control
+* Break-even
+* ROI
+* Budget
 
----
+***
 
-# **22. Zabanj**
+## **22. Zabanj**
 
 تمرکز:
 
@@ -702,21 +703,21 @@ plan-ultimate (1).pdf
 
 در فاز Launch:
 
-- Technical English
-- Vocabulary
-- Common Mistakes
-- English for Engineers
-- اصطلاحات تخصصی دانشگاه
+* Technical English
+* Vocabulary
+* Common Mistakes
+* English for Engineers
+* اصطلاحات تخصصی دانشگاه
 
-قرار نیست از روز اول تعداد زیادی محصول آموزشی ساخته شود. 
+قرار نیست از روز اول تعداد زیادی محصول آموزشی ساخته شود.&#x20;
 
 plan-ultimate (1).pdf
 
----
+***
 
-# **23. ترتیب ورود برندها**
+## **23. ترتیب ورود برندها**
 
-```text
+```
 23 شهریور
 │
 ├── Khesht
@@ -762,41 +763,41 @@ plan-ultimate (1).pdf
 
 plan-ultimate (1).pdf
 
----
+***
 
-# **24. فاز اول — ۲۳ شهریور تا ۳ مهر**
+## **24. فاز اول — ۲۳ شهریور تا ۳ مهر**
 
-## **هدف**
+### **هدف**
 
 **آماده‌سازی دانشگاه + کنترل Khesht + ساخت سیستم ContentCity**
 
-دانشگاه هنوز رسماً شروع نشده؛ بنابراین این ۱۲ روز برای آماده‌سازی استفاده می‌شود. 
+دانشگاه هنوز رسماً شروع نشده؛ بنابراین این ۱۲ روز برای آماده‌سازی استفاده می‌شود.&#x20;
 
 plan-ultimate (1).pdf
 
-### **خروجی‌های اصلی**
+#### **خروجی‌های اصلی**
 
 **University**
 
-- ساخت Workspace برای ۹ درس
-- Syllabus
-- Notes
-- Assignment
-- Exercise
-- Exam
-- Content Ideas
+* ساخت Workspace برای ۹ درس
+* Syllabus
+* Notes
+* Assignment
+* Exercise
+* Exam
+* Content Ideas
 
 **Khesht**
 
-- جمع‌آوری تمام Leads
-- تفکیک BIM Leads
-- مرتب‌سازی CRM
-- طراحی Funnel
-- Sales Script
+* جمع‌آوری تمام Leads
+* تفکیک BIM Leads
+* مرتب‌سازی CRM
+* طراحی Funnel
+* Sales Script
 
 **ContentCity**
 
-```text
+```
 IDEA
 ↓
 SCRIPT
@@ -814,75 +815,75 @@ PUBLISHED
 ANALYZED
 ```
 
----
+***
 
-# **25. برنامه روزانه فاز اول**
+## **25. برنامه روزانه فاز اول**
 
-|**تاریخ**|**تمرکز**|
-|---|---|
-|دوشنبه ۲۳ شهریور|ساخت Workspace دانشگاه|
-|سه‌شنبه ۲۴ شهریور|Data Science + CRM|
-|چهارشنبه ۲۵ شهریور|Statistics + Funnel|
-|پنجشنبه ۲۶ شهریور|Accounting + Sales Script|
-|جمعه ۲۷ شهریور|Metaheuristic Optimization + ContentCity Batch|
-|شنبه ۲۸ شهریور|Finance + Khesht Leads|
-|یکشنبه ۲۹ شهریور|Technical English|
-|دوشنبه ۳۰ شهریور|Electrical Circuits|
-|سه‌شنبه ۳۱ شهریور|Modern Physics|
-|چهارشنبه ۱ مهر|Life Skills|
-|پنجشنبه ۲ مهر|University Review|
-|جمعه ۳ مهر|Buffer Day|
+| **تاریخ**          | **تمرکز**                                      |
+| ------------------ | ---------------------------------------------- |
+| دوشنبه ۲۳ شهریور   | ساخت Workspace دانشگاه                         |
+| سه‌شنبه ۲۴ شهریور  | Data Science + CRM                             |
+| چهارشنبه ۲۵ شهریور | Statistics + Funnel                            |
+| پنجشنبه ۲۶ شهریور  | Accounting + Sales Script                      |
+| جمعه ۲۷ شهریور     | Metaheuristic Optimization + ContentCity Batch |
+| شنبه ۲۸ شهریور     | Finance + Khesht Leads                         |
+| یکشنبه ۲۹ شهریور   | Technical English                              |
+| دوشنبه ۳۰ شهریور   | Electrical Circuits                            |
+| سه‌شنبه ۳۱ شهریور  | Modern Physics                                 |
+| چهارشنبه ۱ مهر     | Life Skills                                    |
+| پنجشنبه ۲ مهر      | University Review                              |
+| جمعه ۳ مهر         | Buffer Day                                     |
 
-۳ مهر **شروع پروژه جدید ممنوع**؛ فقط عقب‌ماندگی‌ها جمع می‌شوند. 
+۳ مهر **شروع پروژه جدید ممنوع**؛ فقط عقب‌ماندگی‌ها جمع می‌شوند.&#x20;
 
 plan-ultimate (1).pdf
 
----
+***
 
-# **26. فاز دوم — ۴ تا ۱۷ مهر**
+## **26. فاز دوم — ۴ تا ۱۷ مهر**
 
-## **هدف**
+### **هدف**
 
 **University + Khesht + ContentCity**
 
-### **University**
+#### **University**
 
-- کلاس‌ها
-- مطالعه
-- Homework
-- Exercise
-- Review
+* کلاس‌ها
+* مطالعه
+* Homework
+* Exercise
+* Review
 
-### **DataLab**
-
-۳ ایده محتوا
-
-### **Malich**
+#### **DataLab**
 
 ۳ ایده محتوا
 
-### **Zabanj**
+#### **Malich**
 
 ۳ ایده محتوا
 
-### **Khesht**
+#### **Zabanj**
 
-- Sales Dashboard
-- تماس با تمام Leads
-- Follow-up
-- ثبت علت عدم خرید
+۳ ایده محتوا
 
-### **ContentCity**
+#### **Khesht**
 
-حداقل یک Study Case. 
+* Sales Dashboard
+* تماس با تمام Leads
+* Follow-up
+* ثبت علت عدم خرید
+
+#### **ContentCity**
+
+حداقل یک Study Case.&#x20;
 
 plan-ultimate (1).pdf
 
----
+***
 
-# **27. هفته پنجم — ۱۸ تا ۲۴ مهر**
+## **27. هفته پنجم — ۱۸ تا ۲۴ مهر**
 
-## **Khesht System Week**
+### **Khesht System Week**
 
 پنج فرآیند مستند شوند:
 
@@ -894,7 +895,7 @@ plan-ultimate (1).pdf
 
 قالب SOP:
 
-```text
+```
 Trigger
 ↓
 Input
@@ -910,7 +911,7 @@ KPI
 
 ContentCity نیز یک پروژه واقعی را از:
 
-```text
+```
 Brief
 → Script
 → Shoot
@@ -918,19 +919,19 @@ Brief
 → Publish
 ```
 
-مستند می‌کند. 
+مستند می‌کند.&#x20;
 
 plan-ultimate (1).pdf
 
----
+***
 
-# **28. هفته ششم — ۲۵ مهر تا ۱ آبان**
+## **28. هفته ششم — ۲۵ مهر تا ۱ آبان**
 
-## **Founder Audit**
+### **Founder Audit**
 
 بررسی:
 
-### **Khesht**
+#### **Khesht**
 
 کدام دوره Lead بیشتری ایجاد کرده؟
 
@@ -938,15 +939,15 @@ plan-ultimate (1).pdf
 
 کدام دوره Revenue بیشتری دارد؟
 
-### **University**
+#### **University**
 
 کدام درس عقب افتاده؟
 
-### **Content**
+#### **Content**
 
 کدام موضوع بیشتر ساخته شده و کدام موضوع بهتر نتیجه داده؟
 
-### **تصمیم**
+#### **تصمیم**
 
 **۳ چیز را بیشتر کن.**
 
@@ -954,13 +955,13 @@ plan-ultimate (1).pdf
 
 plan-ultimate (1).pdf
 
----
+***
 
-# **29. فاز سوم — ۲ تا ۱۵ آبان**
+## **29. فاز سوم — ۲ تا ۱۵ آبان**
 
 از ۶ آبان برنامه وارد مرحله دوم می‌شود:
 
-```text
+```
 Khesht → Scale
 ContentCity → Case Study
 University → Content Engine
@@ -969,35 +970,35 @@ Zabanj → Launch
 
 plan-ultimate (1).pdf
 
----
+***
 
-# **30. هفته هفتم — ۲ تا ۸ آبان**
+## **30. هفته هفتم — ۲ تا ۸ آبان**
 
-### **Zabanj**
+#### **Zabanj**
 
 Public Launch با فقط یک محور:
 
 **English for Students & Professionals**
 
-### **DataLab**
+#### **DataLab**
 
 Data + Statistics
 
-### **Malich**
+#### **Malich**
 
 Finance + Accounting
 
-### **Khesht**
+#### **Khesht**
 
 Offer مشخص برای شرکت‌ها:
 
 **Corporate Training**
 
----
+***
 
-# **31. هفته هشتم — ۹ تا ۱۵ آبان**
+## **31. هفته هشتم — ۹ تا ۱۵ آبان**
 
-## **Khesht B2B**
+### **Khesht B2B**
 
 حداقل:
 
@@ -1005,12 +1006,12 @@ Offer مشخص برای شرکت‌ها:
 
 برای هر شرکت:
 
-- Company
-- Contact
-- Need
-- Potential Course
-- Contact Status
-- Next Action
+* Company
+* Contact
+* Need
+* Potential Course
+* Contact Status
+* Next Action
 
 هدف:
 
@@ -1018,17 +1019,17 @@ Offer مشخص برای شرکت‌ها:
 
 plan-ultimate (1).pdf
 
----
+***
 
-# **32. هفته نهم — ۱۶ تا ۲۲ آبان**
+## **32. هفته نهم — ۱۶ تا ۲۲ آبان**
 
-## **Stack — Soft Launch**
+### **Stack — Soft Launch**
 
 Scope فقط:
 
-- یک Offer
-- یک Content Pillar
-- یک Landing Page
+* یک Offer
+* یک Content Pillar
+* یک Landing Page
 
 محور:
 
@@ -1038,19 +1039,19 @@ Scope فقط:
 
 نه ۲۰ دوره.
 
-نه Business مستقل بزرگ. 
+نه Business مستقل بزرگ.&#x20;
 
 plan-ultimate (1).pdf
 
----
+***
 
-# **33. هفته دهم — ۲۳ تا ۲۹ آبان**
+## **33. هفته دهم — ۲۳ تا ۲۹ آبان**
 
-## **Khesht Student Experience**
+### **Khesht Student Experience**
 
 یک دوره را انتخاب و مسیر زیر را کامل کن:
 
-```text
+```
 Admission
 ↓
 Onboarding
@@ -1064,29 +1065,29 @@ Project
 Feedback
 ```
 
-هدف این است که Student Experience مستند و قابل تکرار شود. 
+هدف این است که Student Experience مستند و قابل تکرار شود.&#x20;
 
 plan-ultimate (1).pdf
 
----
+***
 
-# **34. هفته یازدهم — ۳۰ آبان تا ۶ آذر**
+## **34. هفته یازدهم — ۳۰ آبان تا ۶ آذر**
 
-## **Froma + Basseo Preparation**
+### **Froma + Basseo Preparation**
 
-### **Froma**
+#### **Froma**
 
-- Positioning
-- Audience
-- Offer
-- Landing
+* Positioning
+* Audience
+* Offer
+* Landing
 
-### **Basseo**
+#### **Basseo**
 
-- Positioning
-- SEO Service
-- Offer
-- Landing
+* Positioning
+* SEO Service
+* Offer
+* Landing
 
 برای هرکدام فقط چند ساعت محدود در هفته.
 
@@ -1094,138 +1095,138 @@ plan-ultimate (1).pdf
 
 plan-ultimate (1).pdf
 
----
+***
 
-# **35. هفته دوازدهم — ۷ تا ۱۳ آذر**
+## **35. هفته دوازدهم — ۷ تا ۱۳ آذر**
 
-## **Limited Launch**
+### **Limited Launch**
 
 فقط اگر:
 
-- Khesht عقب نیست
-- University عقب نیست
-- سیستم‌های P0 کنترل شده‌اند
+* Khesht عقب نیست
+* University عقب نیست
+* سیستم‌های P0 کنترل شده‌اند
 
-### **Froma**
+#### **Froma**
 
 **۲ Reel + ۱ Carousel**
 
-### **Basseo**
+#### **Basseo**
 
 **۲ Reel + ۱ Carousel**
 
 اگر سیستم اصلی عقب باشد:
 
-**این Batch حذف می‌شود.** 
+**این Batch حذف می‌شود.**&#x20;
 
 plan-ultimate (1).pdf
 
----
+***
 
-# **36. هفته سیزدهم — ۱۴ تا ۲۰ آذر**
+## **36. هفته سیزدهم — ۱۴ تا ۲۰ آذر**
 
-## **Founder Consolidation**
+### **Founder Consolidation**
 
 **برند جدید ممنوع.**
 
-### **Khesht**
+#### **Khesht**
 
-- Revenue
-- Sales
-- Operations
-- System
+* Revenue
+* Sales
+* Operations
+* System
 
-### **ContentCity**
+#### **ContentCity**
 
-- Clients
-- Case Studies
-- Pipeline
+* Clients
+* Case Studies
+* Pipeline
 
-### **University**
+#### **University**
 
-- Assignments
-- Exam Prep
-- Content
+* Assignments
+* Exam Prep
+* Content
 
-### **DataLab / Malich / Zabanj**
+#### **DataLab / Malich / Zabanj**
 
-- Content Pipeline
+* Content Pipeline
 
 plan-ultimate (1).pdf
 
----
+***
 
-# **37. ۲۱ و ۲۲ آذر — Quarterly Review**
+## **37. ۲۱ و ۲۲ آذر — Quarterly Review**
 
 دو روز کامل برای Review.
 
-## **Khesht**
+### **Khesht**
 
-- Leads
-- Qualified Leads
-- Sales
-- Revenue
-- Gross Margin
-- CAC
-- Conversion
-- Students
-- Satisfaction
+* Leads
+* Qualified Leads
+* Sales
+* Revenue
+* Gross Margin
+* CAC
+* Conversion
+* Students
+* Satisfaction
 
-## **ContentCity**
+### **ContentCity**
 
-- Leads
-- Clients
-- Revenue
-- Projects
-- Case Studies
-- Content
-- Conversion
+* Leads
+* Clients
+* Revenue
+* Projects
+* Case Studies
+* Content
+* Conversion
 
-## **University**
+### **University**
 
-- Courses
-- Assignments
-- Study Hours
-- Grades
-- Backlog
+* Courses
+* Assignments
+* Study Hours
+* Grades
+* Backlog
 
-## **Founder**
+### **Founder**
 
-- Founder Hours
-- Operational Hours
-- Strategic Hours
-- Delegated Tasks
-- Undone Tasks
+* Founder Hours
+* Operational Hours
+* Strategic Hours
+* Delegated Tasks
+* Undone Tasks
 
 plan-ultimate (1).pdf
 
----
+***
 
-# **38. برنامه هفتگی ثابت Founder**
+## **38. برنامه هفتگی ثابت Founder**
 
 بعد از شروع دانشگاه:
 
-|**روز**|**برنامه**|
-|---|---|
-|شنبه|University 3h + Khesht 2h + ContentCity 1h|
-|یکشنبه|University 3h + Khesht 2h + DataLab/Malich/Zabanj 1h|
-|دوشنبه|University 3h + Khesht System 2h + ContentCity 1h|
-|سه‌شنبه|University 3h + Khesht 2h + ContentCity 1h|
-|چهارشنبه|University 3h + Khesht 2h + Founder Strategy 1h|
-|پنجشنبه|University Review 2h + Content Extraction 2h + Khesht System 2h|
-|جمعه|Batch Content 3h + University Assignments 3h + Weekly Review 30m + Buffer 1–2h|
+| **روز**  | **برنامه**                                                                     |
+| -------- | ------------------------------------------------------------------------------ |
+| شنبه     | University 3h + Khesht 2h + ContentCity 1h                                     |
+| یکشنبه   | University 3h + Khesht 2h + DataLab/Malich/Zabanj 1h                           |
+| دوشنبه   | University 3h + Khesht System 2h + ContentCity 1h                              |
+| سه‌شنبه  | University 3h + Khesht 2h + ContentCity 1h                                     |
+| چهارشنبه | University 3h + Khesht 2h + Founder Strategy 1h                                |
+| پنجشنبه  | University Review 2h + Content Extraction 2h + Khesht System 2h                |
+| جمعه     | Batch Content 3h + University Assignments 3h + Weekly Review 30m + Buffer 1–2h |
 
 plan-ultimate (1).pdf
 
----
+***
 
-# **39. قانون مهم زمان‌بندی**
+## **39. قانون مهم زمان‌بندی**
 
 برندها نباید الزاماً ساعت مستقل داشته باشند.
 
 مثلاً:
 
-```text
+```
 University
    ↓
 Learning
@@ -1239,43 +1240,43 @@ DataLab / Malich / Zabanj
 
 پس DataLab الزاماً یک پروژه مستقل چندساعته نیست.
 
-این طراحی عمداً جلوی چندبار تحقیق‌کردن را می‌گیرد. 
+این طراحی عمداً جلوی چندبار تحقیق‌کردن را می‌گیرد.&#x20;
 
 plan-ultimate (1).pdf
 
----
+***
 
-# **40. سیستم تولید Batch**
+## **40. سیستم تولید Batch**
 
 پنجشنبه روز اصلی Production است.
 
 نمونه:
 
-### **09:00–10:00**
+#### **09:00–10:00**
 
 Khesht Scripts
 
-### **10:00–12:00**
+#### **10:00–12:00**
 
 Khesht Recording
 
-### **12:00–13:00**
+#### **12:00–13:00**
 
 Break
 
-### **13:00–14:00**
+#### **13:00–14:00**
 
 ContentCity
 
-### **14:00–15:00**
+#### **14:00–15:00**
 
 DataLab
 
-### **15:00–16:00**
+#### **15:00–16:00**
 
 Malich
 
-### **16:00–17:00**
+#### **16:00–17:00**
 
 Zabanj
 
@@ -1285,116 +1286,116 @@ Zabanj
 
 جمعه:
 
-- Editing
-- Caption
-- Scheduling
-- Thumbnail
+* Editing
+* Caption
+* Scheduling
+* Thumbnail
 
 plan-ultimate (1).pdf
 
----
+***
 
-# **41. تقویم ثابت انتشار**
+## **41. تقویم ثابت انتشار**
 
-|**روز**|**انتشار**|
-|---|---|
-|شنبه|Khesht — Reel|
-|یکشنبه|ContentCity — Reel + DataLab — Reel|
-|دوشنبه|Khesht — Reel + Malich — Reel|
-|سه‌شنبه|Khesht — Carousel + Zabanj — Reel|
-|چهارشنبه|Khesht — Reel + ContentCity — Case Study|
-|پنجشنبه|Batch Production|
-|جمعه|Editing + Scheduling|
+| **روز**  | **انتشار**                               |
+| -------- | ---------------------------------------- |
+| شنبه     | Khesht — Reel                            |
+| یکشنبه   | ContentCity — Reel + DataLab — Reel      |
+| دوشنبه   | Khesht — Reel + Malich — Reel            |
+| سه‌شنبه  | Khesht — Carousel + Zabanj — Reel        |
+| چهارشنبه | Khesht — Reel + ContentCity — Case Study |
+| پنجشنبه  | Batch Production                         |
+| جمعه     | Editing + Scheduling                     |
 
-این Pattern برای کاهش نیاز به برنامه‌ریزی مجدد هفتگی است. 
-
-plan-ultimate (1).pdf
-
----
-
-# **42. تقویم محتوایی فاز اول**
-
-## **۲۳ شهریور تا ۳ مهر**
-
-### **Khesht**
-
-- BIM
-- Revit
-- Career
-- BIM Mistakes
-- BIM Market
-- BIM Project
-
-### **ContentCity**
-
-- Agency
-- Behind the Scenes
-- Production
-- Study Case
-
-### **DataLab / Malich / Zabanj**
-
-در ابتدا Batch اولیه ساخته می‌شود و پس از شروع دانشگاه از Learning تغذیه می‌شوند. 
+این Pattern برای کاهش نیاز به برنامه‌ریزی مجدد هفتگی است.&#x20;
 
 plan-ultimate (1).pdf
 
----
+***
 
-# **43. محتوای هفته‌های ۴ تا ۱۷ مهر**
+## **42. تقویم محتوایی فاز اول**
 
-### **Khesht**
+### **۲۳ شهریور تا ۳ مهر**
 
-- BIM Career
-- Revit Mistake
-- BIM Roadmap
-- BIM FAQ
-- BIM Project Case Study
-- Revit Learning Mistakes
-- BIM vs Revit
-- مسیر صفر تا بازار کار
-- Lead Question
-- Student Project
+#### **Khesht**
 
-### **ContentCity**
+* BIM
+* Revit
+* Career
+* BIM Mistakes
+* BIM Market
+* BIM Project
 
-- Before / After Editing
-- Case Study
-- Behind the Scenes
+#### **ContentCity**
 
-### **DataLab**
+* Agency
+* Behind the Scenes
+* Production
+* Study Case
 
-- Mean
-- Dataset
-- Data Science
-- Statistics
+#### **DataLab / Malich / Zabanj**
 
-### **Malich**
-
-- Revenue vs Profit
-- Cash Flow
-- Accounting
-
-### **Zabanj**
-
-- Technical English
-- University Vocabulary
-- Common English Mistakes
+در ابتدا Batch اولیه ساخته می‌شود و پس از شروع دانشگاه از Learning تغذیه می‌شوند.&#x20;
 
 plan-ultimate (1).pdf
 
----
+***
 
-# **44. Content Audit — ۲۵ مهر تا ۱ آبان**
+## **43. محتوای هفته‌های ۴ تا ۱۷ مهر**
+
+#### **Khesht**
+
+* BIM Career
+* Revit Mistake
+* BIM Roadmap
+* BIM FAQ
+* BIM Project Case Study
+* Revit Learning Mistakes
+* BIM vs Revit
+* مسیر صفر تا بازار کار
+* Lead Question
+* Student Project
+
+#### **ContentCity**
+
+* Before / After Editing
+* Case Study
+* Behind the Scenes
+
+#### **DataLab**
+
+* Mean
+* Dataset
+* Data Science
+* Statistics
+
+#### **Malich**
+
+* Revenue vs Profit
+* Cash Flow
+* Accounting
+
+#### **Zabanj**
+
+* Technical English
+* University Vocabulary
+* Common English Mistakes
+
+plan-ultimate (1).pdf
+
+***
+
+## **44. Content Audit — ۲۵ مهر تا ۱ آبان**
 
 برای هر Reel:
 
-- Views
-- Watch Time
-- Saves
-- Shares
-- Profile Visits
-- DM
-- Lead
+* Views
+* Watch Time
+* Saves
+* Shares
+* Profile Visits
+* DM
+* Lead
 
 بررسی می‌شود.
 
@@ -1402,33 +1403,33 @@ plan-ultimate (1).pdf
 
 **همان موضوع دوباره تولید شود.**
 
-مثلاً اگر یک موضوع BIM چند برابر معرفی دوره دیده شد، هفته بعد چند محتوای جدید از همان جنس ساخته شود. 
+مثلاً اگر یک موضوع BIM چند برابر معرفی دوره دیده شد، هفته بعد چند محتوای جدید از همان جنس ساخته شود.&#x20;
 
 plan-ultimate (1).pdf
 
----
+***
 
-# **45. محتوای فروش آبان**
+## **45. محتوای فروش آبان**
 
-## **Khesht**
+### **Khesht**
 
-- برای چه کسی BIM مناسب است؟
-- برای چه کسی مناسب نیست؟
-- درآمد متخصص BIM
-- مسیر یادگیری BIM
-- پروژه واقعی دانشجو
-- آموزش سازمانی
-- آموزش تیم طراحی
-- آموزش تیم اجرا
-- Case Study
+* برای چه کسی BIM مناسب است؟
+* برای چه کسی مناسب نیست؟
+* درآمد متخصص BIM
+* مسیر یادگیری BIM
+* پروژه واقعی دانشجو
+* آموزش سازمانی
+* آموزش تیم طراحی
+* آموزش تیم اجرا
+* Case Study
 
 CTA:
 
 **برای آموزش سازمانی پیام بدهید.**
 
----
+***
 
-# **46. ContentCity در آبان**
+## **46. ContentCity در آبان**
 
 تمرکز:
 
@@ -1440,16 +1441,16 @@ CTA:
 
 همچنین:
 
-- Before / After
-- Production BTS
-- Case Study
-- Client Results
+* Before / After
+* Production BTS
+* Case Study
+* Client Results
 
 plan-ultimate (1).pdf
 
----
+***
 
-# **47. Stack**
+## **47. Stack**
 
 ۱۶ تا ۲۲ آبان:
 
@@ -1459,23 +1460,23 @@ plan-ultimate (1).pdf
 
 محتوای اولیه:
 
-- Programming Learning Path
-- Junior Developer Mistakes
-- Real Project
+* Programming Learning Path
+* Junior Developer Mistakes
+* Real Project
 
-Scope محدود باقی می‌ماند. 
+Scope محدود باقی می‌ماند.&#x20;
 
 plan-ultimate (1).pdf
 
----
+***
 
-# **48. Student Experience Content**
+## **48. Student Experience Content**
 
 ۲۳ تا ۲۹ آبان:
 
 Khesht باید نشان دهد دانشجو واقعاً چه می‌کند:
 
-```text
+```
 Day 1
 ↓
 Practice
@@ -1493,37 +1494,37 @@ Result
 
 plan-ultimate (1).pdf
 
----
+***
 
-# **49. Froma و Basseo**
+## **49. Froma و Basseo**
 
 ۳۰ آبان تا ۶ آذر:
 
 هرکدام فقط Preparation.
 
-### **Froma**
+#### **Froma**
 
-- Positioning
-- Audience
-- Offer
+* Positioning
+* Audience
+* Offer
 
-### **Basseo**
+#### **Basseo**
 
-- Positioning
-- SEO Service
-- Offer
+* Positioning
+* SEO Service
+* Offer
 
 ضبط هر دو در یک Batch.
 
 ۷ تا ۱۳ آذر:
 
-Limited Launch فقط در صورت سالم‌بودن سیستم‌های اصلی. 
+Limited Launch فقط در صورت سالم‌بودن سیستم‌های اصلی.&#x20;
 
 plan-ultimate (1).pdf
 
----
+***
 
-# **50. Repurpose در پایان Quarter**
+## **50. Repurpose در پایان Quarter**
 
 ۲۱ و ۲۲ آذر:
 
@@ -1531,7 +1532,7 @@ plan-ultimate (1).pdf
 
 به‌جایش:
 
-```text
+```
 Best Reel
  ↓
 Carousel
@@ -1547,15 +1548,15 @@ LinkedIn
 
 اصل:
 
-**یک بار تولید → چند خروجی.** 
+**یک بار تولید → چند خروجی.**&#x20;
 
 plan-ultimate (1).pdf
 
----
+***
 
-# **51. ساختار فایل محتوا**
+## **51. ساختار فایل محتوا**
 
-```text
+```
 CONTENT/
 │
 ├── KHESHT/
@@ -1575,7 +1576,7 @@ CONTENT/
 
 داخل هر ماه:
 
-```text
+```
 01_IDEAS
 02_SCRIPTS
 03_RAW
@@ -1588,13 +1589,13 @@ CONTENT/
 
 plan-ultimate (1).pdf
 
----
+***
 
-# **52. سه Dashboard**
+## **52. سه Dashboard**
 
-## **Dashboard 1 — Founder**
+### **Dashboard 1 — Founder**
 
-```text
+```
 Lead
 ↓
 Proposal
@@ -1620,18 +1621,18 @@ Case Study
 
 KPI:
 
-- Total Revenue
-- Khesht Revenue
-- ContentCity Revenue
-- New Leads
-- Sales
-- Founder Hours
-- University Backlog
-- Content Published
+* Total Revenue
+* Khesht Revenue
+* ContentCity Revenue
+* New Leads
+* Sales
+* Founder Hours
+* University Backlog
+* Content Published
 
-## **Dashboard 2 — Khesht**
+### **Dashboard 2 — Khesht**
 
-```text
+```
 Leads
 ↓
 Qualified
@@ -1645,9 +1646,9 @@ Sales
 Revenue
 ```
 
-## **Dashboard 3 — University**
+### **Dashboard 3 — University**
 
-```text
+```
 Course
 ↓
 Next Class
@@ -1661,9 +1662,9 @@ Study Progress
 
 plan-ultimate (1).pdf
 
----
+***
 
-# **53. Weekly Review**
+## **53. Weekly Review**
 
 هر جمعه فقط:
 
@@ -1673,27 +1674,27 @@ plan-ultimate (1).pdf
 4. چه چیزی باید حذف شود؟
 5. هفته بعد مهم‌ترین Deliverable چیست؟
 
----
+***
 
-# **54. قانون روزانه Founder**
+## **54. قانون روزانه Founder**
 
 هر صبح فقط **۳ کار اصلی**.
 
 مثلاً:
 
-```text
+```
 1. تعیین تکلیف ۲۰ Lead خشت
 2. تکمیل Assignment آمار
 3. Review یک Case Study ContentCity
 ```
 
-اگر این سه کار انجام شدند، بقیه کارها Bonus هستند. 
+اگر این سه کار انجام شدند، بقیه کارها Bonus هستند.&#x20;
 
 plan-ultimate (1).pdf
 
----
+***
 
-# **55. سیستم ضد Task Switching**
+## **55. سیستم ضد Task Switching**
 
 درخواست یا Task جدید فقط در سه حالت باعث تغییر کار فعلی شود:
 
@@ -1703,19 +1704,19 @@ plan-ultimate (1).pdf
 
 در غیر این صورت:
 
-```text
+```
 ثبت
 ↓
 ادامه Task فعلی
 ```
 
----
+***
 
-# **56. سیستم اتوماسیون**
+## **56. سیستم اتوماسیون**
 
 ترتیب درست:
 
-```text
+```
 Manual
  ↓
 Stable
@@ -1727,7 +1728,7 @@ Automated
 
 نه:
 
-```text
+```
 Automate
  ↓
 بعد بفهمیم فرآیند چه بوده
@@ -1735,92 +1736,92 @@ Automate
 
 اتوماسیون قبل از تثبیت فرآیند ممنوع.
 
----
+***
 
-# **57. چیزهایی که در این Quarter نباید انجام شوند**
+## **57. چیزهایی که در این Quarter نباید انجام شوند**
 
-- Website کامل برای هر برند
-- Brand Book برای هر برند
-- Calendar مستقل برای هر برند
-- CRM مستقل برای هر برند
-- پروژه محتوایی مستقل برای هر درس
-- ادیت همه Reels توسط Founder
-- Follow-up همه Leads توسط Founder
-- اجرای همه فرآیندها توسط Founder
-- ساخت همزمان ۱۲ محصول آموزشی
-- Launch کامل برندهای P2
-- پروژه جدید بدون Revenue / Learning / Asset
+* Website کامل برای هر برند
+* Brand Book برای هر برند
+* Calendar مستقل برای هر برند
+* CRM مستقل برای هر برند
+* پروژه محتوایی مستقل برای هر درس
+* ادیت همه Reels توسط Founder
+* Follow-up همه Leads توسط Founder
+* اجرای همه فرآیندها توسط Founder
+* ساخت همزمان ۱۲ محصول آموزشی
+* Launch کامل برندهای P2
+* پروژه جدید بدون Revenue / Learning / Asset
 
 plan-ultimate (1).pdf
 
----
+***
 
-# **58. ترتیب نهایی برندها**
+## **58. ترتیب نهایی برندها**
 
-|**برند**|**وضعیت تا پایان Quarter**|
-|---|---|
-|Khesht|Active / Scale|
-|ContentCity|Active / Agency|
-|University|Active|
-|DataLab|Active|
-|Malich|Active|
-|Zabanj|Public Launch|
-|Stack|Soft Launch|
-|Froma|Limited Launch مشروط|
-|Basseo|Limited Launch مشروط|
-|DesignLab|No Launch|
-|Opsmith|No Launch|
-|Graph|No Launch|
-|Oper|No Launch|
+| **برند**    | **وضعیت تا پایان Quarter** |
+| ----------- | -------------------------- |
+| Khesht      | Active / Scale             |
+| ContentCity | Active / Agency            |
+| University  | Active                     |
+| DataLab     | Active                     |
+| Malich      | Active                     |
+| Zabanj      | Public Launch              |
+| Stack       | Soft Launch                |
+| Froma       | Limited Launch مشروط       |
+| Basseo      | Limited Launch مشروط       |
+| DesignLab   | No Launch                  |
+| Opsmith     | No Launch                  |
+| Graph       | No Launch                  |
+| Oper        | No Launch                  |
 
----
+***
 
-# **59. معیار موفقیت واقعی Quarter**
+## **59. معیار موفقیت واقعی Quarter**
 
 موفقیت فقط این نیست که تعداد زیادی Task انجام شده باشد.
 
 در ۲۲ آذر باید بتوانی نشان بدهی:
 
-### **Khesht**
+#### **Khesht**
 
-- Revenue بیشتر/قابل‌اندازه‌گیری‌تر
-- Sales Funnel مشخص
-- CRM
-- SOPهای P0
-- Student Experience
-- محتوای قابل تکرار
+* Revenue بیشتر/قابل‌اندازه‌گیری‌تر
+* Sales Funnel مشخص
+* CRM
+* SOPهای P0
+* Student Experience
+* محتوای قابل تکرار
 
-### **ContentCity**
+#### **ContentCity**
 
-- Client Pipeline
-- پروژه واقعی
-- Portfolio
-- Case Study
-- Production System
+* Client Pipeline
+* پروژه واقعی
+* Portfolio
+* Case Study
+* Production System
 
-### **University**
+#### **University**
 
-- درس‌های عقب‌افتاده حداقلی
-- Assignmentها انجام‌شده
-- Exam Preparation
-- Knowledge Bank
-- حداقل ۱۰۰ Content Idea
+* درس‌های عقب‌افتاده حداقلی
+* Assignmentها انجام‌شده
+* Exam Preparation
+* Knowledge Bank
+* حداقل ۱۰۰ Content Idea
 
-### **Founder**
+#### **Founder**
 
-- Founder Hours کمتر در کارهای Operational
-- Delegation بیشتر
-- Task Switching کمتر
-- تصمیم‌گیری متمرکزتر
-- پروژه‌های موازی کمتر
+* Founder Hours کمتر در کارهای Operational
+* Delegation بیشتر
+* Task Switching کمتر
+* تصمیم‌گیری متمرکزتر
+* پروژه‌های موازی کمتر
 
----
+***
 
-# **60. Loop نهایی Ultimate Plan**
+## **60. Loop نهایی Ultimate Plan**
 
 کل Quarter در نهایت باید در این Loop کار کند:
 
-```text
+```
              UNIVERSITY
                   ↓
              KNOWLEDGE
@@ -1861,6 +1862,6 @@ plan-ultimate (1).pdf
 
 اصل نهایی سند همان چیزی است که PDF روی آن تأکید دارد:
 
-**قرار نیست ۹۰ روز را با Task پر کنیم؛ قرار است یک سیستم بسازیم که در پایان ۹۰ روز، نسبت به روز اول با وابستگی کمتری به Founder کار کند.** 
+**قرار نیست ۹۰ روز را با Task پر کنیم؛ قرار است یک سیستم بسازیم که در پایان ۹۰ روز، نسبت به روز اول با وابستگی کمتری به Founder کار کند.**&#x20;
 
 plan-ultimate (1).pdf
