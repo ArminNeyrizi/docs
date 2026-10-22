@@ -5,7 +5,7 @@ site:
     - type: space
       key: space-docs
       title: Documentation
-      path: docs
+      path: documentation
       default: true
       content:
         directory: ./
